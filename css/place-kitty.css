@@ -1,4 +1,4 @@
-/* Select the image with a class of kitty-1 */
+<img class="kitty-1" src="images/kitty-1.png" alt="Kitty 1">
 write-your-selector-here {
   position: absolute;
   z-index: 1;
